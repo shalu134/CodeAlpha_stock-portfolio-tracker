@@ -25,7 +25,9 @@ Input:
 
 Output:
   AAPL: 10 shares x $180 = $1800
+  
   TSLA: 5 shares x $250 = $1250
+  
   Total: $3050
 # files:-
 stock_tracker.py – Main Python script
